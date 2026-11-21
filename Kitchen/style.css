@@ -1,0 +1,18 @@
+body {
+    background-color: darkorchid;
+    color: limegreen;
+    font-family: arial, sans-serif;
+}
+h1 {
+    font-size: 36px;
+    color: black;
+}
+h2
+{
+    color: #F72585
+}
+p {
+    line-height: 1.6;
+    font-size: 18px;
+    color: red;
+}
