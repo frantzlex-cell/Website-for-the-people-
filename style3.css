@@ -12,3 +12,37 @@ h1 {
 h2 {
 	color: #444;
 }
+
+.cards {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	align-items: center;
+	}
+
+.card {
+	background-color: white;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	padding: 16px;
+	width: 250px;
+	}
+
+.btn {
+	display: inline-block;
+	background-color: purple;
+	color: white;
+	padding: 12px 24px;
+	border-radius: 8px;
+	text-decoration: none;
+	}
+
+.btn:hover {
+	background-color: #5a0096;
+	}
+
+.price {
+	font-weight: bold;
+	color: purple;
+	font-size: 20px;
+	}
