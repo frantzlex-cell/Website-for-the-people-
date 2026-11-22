@@ -8,3 +8,12 @@ body {
 h1 {
     color: #1e5a3c;
 }
+
+h2 {
+    color: #d96c00;
+}
+
+.body {
+    max-width: 500px;
+    
+}
