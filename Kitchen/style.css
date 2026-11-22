@@ -1,18 +1,10 @@
 body {
-    background-color: darkorchid;
-    color: limegreen;
-    font-family: arial, sans-serif;
+    font-family: Verdana, sans-seirf;
+    text-align: center;
+    background-color: #fff8ff0;
+    color: #2b2b2b;
 }
+
 h1 {
-    font-size: 36px;
-    color: black;
-}
-h2
-{
-    color: #F72585
-}
-p {
-    line-height: 1.6;
-    font-size: 18px;
-    color: red;
+    color: #1e5a3c;
 }
