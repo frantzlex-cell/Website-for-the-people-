@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #f7f9fc;
+    color: #243447;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #1f3a5f;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.card {
+    background-color: white;
+    width: 90%;
+    max-width: 350px;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(31, 58, 95, 0.12);
+    padding: 20px;
+}
+
+.price {
+    font-weight: bold;
+    color: #2a9d8f;
+    font-size: 20px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #1f3a5f;
+    color: white;
+    padding: 14px 28px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #2a9d8f;
+}
+
+footer {
+    margin-top: 40px;
+    font-size: 14px;
+    color: #5a6b7f;
+}
