@@ -21,3 +21,28 @@ h2 {
     border-radius: 12px;
     padding: 16px;
 }
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 4px;
+}
+
+.price {
+    font-weight: bold;
+    color: #1e5a3c;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #d96c00;
+    color: white;
+    padding: 14px 28px;
+    border-radius: 24px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: #b85a00;
+}
