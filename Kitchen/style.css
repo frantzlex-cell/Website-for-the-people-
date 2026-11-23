@@ -13,7 +13,11 @@ h2 {
     color: #d96c00;
 }
 
-.body {
+.menu {
     max-width: 500px;
-    
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid #e0d5c5;
+    border-radius: 12px;
+    padding: 16px;
 }
