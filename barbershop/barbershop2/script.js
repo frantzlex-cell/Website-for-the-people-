@@ -1,4 +1,3 @@
-document.getElementById("callback").addE
-event.prevenDefault();
+document.getElementById("callback").addEevent.prevenDefault();
 document.getElementById("Thanks").textCc
 });
